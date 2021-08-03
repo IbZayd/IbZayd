@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IbZayd
-- 👀 I’m interested in Python, Data analytics and related stuffs
+- 👀 I’m interested in Python, Data analytics, ML and related stuffs
 - 🌱 I’m currently learning Python and Data analytics
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @iabuzayd@gmail.com
